@@ -1,0 +1,185 @@
+{
+  "categorias": [
+    {
+      "titulo": "Influencer",
+      "link": "https://www.youtube.com/watch?v=9dqGuzslv6E",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Vídeos de humor, dicas de make, etc...",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      },
+      "videos": [
+        {
+          "titulo": "Photoshop",
+          "url": "https://www.youtube.com/watch?v=9dqGuzslv6E"
+        },
+        {
+          "titulo": "Evelyn Regly - Inveja",
+          "url": "https://www.youtube.com/watch?v=qxQzufn0zug&t=453s"
+        },
+        {
+          "titulo": "Whinderson Nunes - Velório de Rico e de Pobre",
+          "url": "https://www.youtube.com/watch?v=CQjRxFWhmzQ"
+        },
+        {
+          "titulo": "Boca Rosa",
+          "url": "https://www.youtube.com/watch?v=4VvV3snbnuA"
+        },
+        {
+          "titulo": "Ana Lídia - Autoestima",
+          "url": "https://www.youtube.com/watch?v=-UNHrySEGSI"
+        },
+        {
+          "titulo": "Dani Noce - Bolinho de Arroz com Queijo",
+          "url": "https://www.youtube.com/watch?v=MiiJv3jYuXs"
+        },
+        {
+          "titulo": "Eurekka - Depressão",
+          "url": "https://www.youtube.com/watch?v=mvhBRUes_Gg"
+        },
+        {
+          "titulo": "Drauzio Varella - Bom Senso",
+          "url": "https://www.youtube.com/watch?v=2DZ1CBWWVfU"
+        }        
+      ]
+    },
+    {
+      "titulo": "Músicas",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Maldita Vontade - Xamã",
+        "url": "https://www.youtube.com/watch?v=Lxw7CqRytuI"
+      },
+      "videos": [
+        {
+          "titulo": "Cida - Xamã ft. Agnes Nunes",
+          "url": "https://www.youtube.com/watch?v=fRp80Rg1SII"
+        },
+        {
+          "titulo": "Vira Homem - Marília Mendonça",
+          "url": "https://www.youtube.com/watch?v=6i4zcAO5DoM"
+        },
+        {
+          "titulo": "Banda Cover - Zé Neto e Cristiano",
+          "url": "https://www.youtube.com/watch?v=7m1DqxTx5s4"
+        },
+        {
+          "titulo": "Se eu fosse Você - Henrique e Juliano",
+          "url": "https://www.youtube.com/watch?v=tsyETGFUXiI"
+        }, 
+        {
+          "titulo": "Viola em Bandoleira - Péricles",
+          "url": "https://www.youtube.com/watch?v=2ihoh6Bef8I"
+        }
+      ]
+    },
+    {
+      "titulo": "Games",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Minecraft",
+        "url": "https://www.youtube.com/watch?v=cELP8OgWndQ"
+      },
+      "videos": [
+        {
+          "titulo": "CS GO",
+          "url": "https://www.youtube.com/watch?v=3lZGIALhYVw"
+        },
+        {
+          "titulo": "Free Fire",
+          "url": "https://www.youtube.com/watch?v=urN3KOUdsqI"
+        },
+        {
+          "titulo": "The Sims",
+          "url": "https://www.youtube.com/watch?v=VMWIWfLLwyA"
+        },
+        {
+          "titulo": "GTA",
+          "url": "https://www.youtube.com/watch?v=bVMBrDPxi4c"
+        }
+      ]
+    },
+    {
+      "titulo": "Filmes",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Deadpool 2",
+          "url": "https://www.youtube.com/watch?v=MiBZNToIHyE"
+        },
+        {
+          "titulo": "Lanterna Verde",
+          "url": "https://www.youtube.com/watch?v=pnGGrlB9Ywg"
+        },
+        {
+          "titulo": "O ex-namorado psicopata",
+          "url": "https://www.youtube.com/watch?v=fB3_QJ4kwys"
+        },
+        {
+          "titulo": "Insônia",
+          "url": "https://www.youtube.com/watch?v=RR2aJPVtJm8"
+        }
+      ]
+    },
+    {
+      "titulo": "Séries",
+      "cor": "red",
+      "link_extra": {
+        "text": "Eu, a Patroa e as Crianças",
+        "url": "https://www.youtube.com/watch?v=V3rjPBwwGNU"
+      },
+      "videos": [
+        {
+          "titulo": "Um Maluco no Pedaço",
+          "url": "https://www.youtube.com/watch?v=joALtfBM50A"
+        },
+        {
+          "titulo": "Hannah Montana",
+          "url": "https://www.youtube.com/watch?v=peF0CGXbseU"
+        },
+        {
+          "titulo": "Zack e Cody",
+          "url": "https://www.youtube.com/watch?v=6d-NHLKTjlU&list=PLiMk7j8tk_t2ghxRtfRog7OkSqQ6HaEB1"
+        },
+        {
+          "titulo": "Friends",
+          "url": "https://www.youtube.com/watch?v=Uh0I6xe7Svc&list=PL4VjYMnxdYuW6Eqst_ko7JxLJgqC4ODfK"
+        },
+        {
+          "titulo": "How I met your Mother",
+          "url": "https://www.youtube.com/watch?v=8C8hP-kmEMo&list=PLnlrU4gGZ9_jfYMEnz9V-PfSJ6pZP_lFe"
+        }
+      ]
+    },
+    {
+      "titulo": "Tecnologias",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Nerdologia",
+          "url": "https://www.youtube.com/watch?v=oQ4xTJ0sZsM"
+        },
+        {
+          "titulo": "Você Sabia?",
+          "url": "https://www.youtube.com/watch?v=XxHOS1cON5Q"
+        },
+        {
+          "titulo": "CanalTech",
+          "url": "https://www.youtube.com/watch?v=aDN4pmSawko"
+        },
+        {
+          "titulo": "Código Fonte",
+          "url": "https://www.youtube.com/watch?v=Eegnj0mY8OY"
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    }
+  ]
+}
